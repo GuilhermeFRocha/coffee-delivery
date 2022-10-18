@@ -9,7 +9,7 @@ module.exports = {
       sm: 16,
       md: 18,
       lg: 20,
-      xl: 24,
+      xl: 48,
       '2xl': 32,
     },
     colors: {
@@ -18,6 +18,9 @@ module.exports = {
         200: "#8047F8",
         300: "#4B2995",
       }
+    },
+    fontFamily: {
+      Nunito:  'Nunito, sans-serif', 
     },
     extend: {
       fontFamily: {
