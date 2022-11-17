@@ -14,6 +14,14 @@ module.exports = {
       '2xl': 32,
       '3xl': 24
     },
+    borderColor: {
+      grey: {
+        300: "#E6E5E5"
+      },
+      purple: {
+        400: "#8047F8"
+      }
+    },
     colors: {
       purple: {
         100: "#EBE5F9",
@@ -24,7 +32,9 @@ module.exports = {
         100: "#F3F2F2",
         200: "#8D8686",
         300: "#E6E5E5",
-        400: "#574F4D"
+        400: "#574F4D",
+        500: "#EDEDED",
+        600: "#403937"
       },
       yellow: {
         100: "#F1E9C9",
